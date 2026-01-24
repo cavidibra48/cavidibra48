@@ -2,53 +2,64 @@
 
 I'm an Information Security student with a strong interest in Linux systems, cybersecurity, and programming.
 I enjoy learning how systems work internally and how to secure them against threats.
+<dl>
+<dt>🎓 Education </dt>
+<dd> Major: Information Security</dd>
 
-🎓 Education
-  Major: Information Security
+<dt>Focus areas:</dt>
+  <dd>Cybersecurity fundamentals</dd>
+  <dd>Linux systems</dd>
+ <dd> Network basics</dd>
 
-Focus areas:
-  Cybersecurity fundamentals
-  Linux systems
-  Network basics
+<dt>💻 Technical Skills:</dt>
 
-💻 Technical Skills:
-🧑‍💻 Programming & Web:
-  Python
-  JavaScript (Basics)
-  HTML5
-  CSS3
+  
+<dd>Programming & Automation:</dd>
+  <dl>
+ <dt> Python:</dt>
+    <dd>Selenium (Web automation & testing)</dd>
+   <dd> openpyxl (Excel automation)</dd>
+   <dd> tkinter (UI design)</dd>
+  
+  <dt>Web development:</dt>
+   <dd> JavaScript (Basics)</dd>
+   <dd> HTML5</dd>
+   <dd> CSS3</dd>
+</dl>
+<dt>🐧 Operating Systems:</dt>
+<dl>
+  <dt>Linux:</dt>
+   <dd>Debian</dd>
+  <dd>Fedora</dd>
+</dl>
 
-🐧 Operating Systems:
-  Linux:
-    Debian
-    Fedora
+<dt>🔐 Security Interests:</dt>
+ <dd> Network security</dd>
+<dd> Linux system security</dd>
+ <dd> Ethical hacking fundamentals</dd>
 
-🔐 Security Interests:
-  Network security
-  Packet analysis
-  Linux system security
-  Ethical hacking fundamentals
+<dt>🛠 Tools & Technologies:</dt>
+ <dd> Git & GitHub</dd>
+  <dd>Linux CLI</dd>
+<dd>Basic networking tools</dd>  
+  <dd>Selenium WebDriver</dd>
 
-🛠 Tools & Technologies:
-  Git & GitHub
-  Linux CLI
-  Basic networking tools
-  Scapy (learning)
+<dt>📌 Currently Learning:</dt>
+<dd> Python for cybersecurity</dd>
+ <dd> Network traffic analysis</dd>
+ <dd>Linux security & logs</dd> 
+<dd>  Web security basics</dd>
+<!--
+<dt>📂 Featured Projects</dt>
+ Projects will be added and improved continuously as I learn 
+ <dd> 🔍 Network & Security tools (Python)</dd>
+  <dd>🐧 Linux-based utilities</dd>
+<dd> 🌐 Basic web projects (HTML/CSS/JS)</dd> -->
 
-📌 Currently Learning:
-  Python for cybersecurity
-  Network traffic analysis
-  Linux security & logs
-  Web security basics
+<dt>📫 Contact:</dt>
+ <dd> GitHub: https://github.com/cavidibra48</dd>
+ <dd> Email: cavidibrahiimli@gmail.com</dd>
 
-📂 Featured Projects
-<!-- Projects will be added and improved continuously as I learn -->
-  🔍 Network & Security tools (Python)
-  🐧 Linux-based utilities
-  🌐 Basic web projects (HTML/CSS/JS)
-
-📫 Contact
-  GitHub: https://github.com/cavidibra48
-
-⭐ Goal
-  To become a skilled cybersecurity professional with strong practical knowledge of Linux, networking, and secure software development.
+<dt>⭐ Goal</dt>
+ <dd> To become a skilled cybersecurity professional with strong practical knowledge of Linux, networking, and secure software development.</dd>
+</dl>
