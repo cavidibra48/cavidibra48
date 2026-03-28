@@ -61,7 +61,7 @@ I enjoy learning how systems work internally and how to secure them against thre
  Projects will be added and improved continuously as I learn 
  <dd> 🔍 Network & Security tools (Python)</dd>
   <dd>🐧 Linux-based utilities</dd>
-<dd> 🌐 Basic web projects (HTML/CSS/JS)</dd> -->
+<dd> 🌐 Basic web projects (HTML/CSS/JS)</dd> --> 
 
 <dt>📫 Contact:</dt>
  <dd> GitHub: https://github.com/cavidibra48</dd>
