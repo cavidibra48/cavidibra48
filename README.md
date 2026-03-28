@@ -4,7 +4,7 @@ I'm an Information Security student with a strong interest in Linux systems, cyb
 I enjoy learning how systems work internally and how to secure them against threats.
 <dl>
 <dt>🎓 Education </dt>
-<dd> Major: Information Security</dd>
+<dd> Major: Information Security (UNEC) </dd>
 
 <dt>Focus areas:</dt>
   <dd>Cybersecurity fundamentals</dd>
@@ -20,6 +20,10 @@ I enjoy learning how systems work internally and how to secure them against thre
     <dd>Selenium (Web automation & testing)</dd>
    <dd> openpyxl (Excel automation)</dd>
    <dd> tkinter (UI design)</dd>
+
+   <dt>Rust:</dt>
+   <dd>Egui (UI design)</dd>
+   <dd>Pdf-extract (Reading pdf files)</dd>
   
   <dt>Web development:</dt>
    <dd> JavaScript (Basics)</dd>
@@ -31,6 +35,8 @@ I enjoy learning how systems work internally and how to secure them against thre
   <dt>Linux:</dt>
    <dd>Debian</dd>
   <dd>Fedora</dd>
+  <dd>CachyOs</dd>
+  <dd>Mint</dd>
 </dl>
 
 <dt>🔐 Security Interests:</dt>
@@ -40,12 +46,13 @@ I enjoy learning how systems work internally and how to secure them against thre
 
 <dt>🛠 Tools & Technologies:</dt>
  <dd> Git & GitHub</dd>
-  <dd>Linux CLI</dd>
+ <!-- <dd>Linux CLI</dd>-->
 <dd>Basic networking tools</dd>  
   <dd>Selenium WebDriver</dd>
 
 <dt>📌 Currently Learning:</dt>
 <dd> Python for cybersecurity</dd>
+<dd>Rust for cybersecurity</dd>
  <dd> Network traffic analysis</dd>
  <dd>Linux security & logs</dd> 
 <dd>  Web security basics</dd>
